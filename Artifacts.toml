@@ -1,96 +1,96 @@
 [[Foldseek]]
 arch = "aarch64"
-git-tree-sha1 = "6285ccf11f169581b65223804387aa8e7f089709"
+git-tree-sha1 = "567a303e9eb04141d394fe42fc8b7a70832db187"
 os = "macos"
 
     [[Foldseek.download]]
-    sha256 = "ef4acae92ff284d6df7ffccf9a4ce2f0ae88831817b8f60f3c0d9ef35c140cf0"
-    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v6.0.0+0/Foldseek.v6.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "79eed0afdcc5b0d46d24e890698a8c14b04b9e8e8a00b4efb10a4e6e4ccd9cb1"
+    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v7.0.0+0/Foldseek.v7.0.0.aarch64-apple-darwin.tar.gz"
 [[Foldseek]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c3ead1e1fb861b0f9c52c9e3770a2ffb2f80bb4d"
+git-tree-sha1 = "533e39948195bfbfbf785fcf041da3738870c1e3"
 libc = "glibc"
 os = "linux"
 
     [[Foldseek.download]]
-    sha256 = "ea44241bf7a916ad1f1789b73b9a2d9e3ab5459bb7d30ec3412d0dd81775aa62"
-    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v6.0.0+0/Foldseek.v6.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "9ae7646ca2a9c86627d0bae08029e3a9a5e19eaf86996b6fc50c18c0c1db4b37"
+    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v7.0.0+0/Foldseek.v7.0.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[Foldseek]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ed50d57e7e5e14e1087387ea716f905eaf9401f9"
+git-tree-sha1 = "b45d764cc31166942a1c9e66f98169b9b66c60d7"
 libc = "glibc"
 os = "linux"
 
     [[Foldseek.download]]
-    sha256 = "c19a9c26993c3bef3693fa138c199cdc346440f36315826e4dc586d291b8e319"
-    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v6.0.0+0/Foldseek.v6.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "dc6c5c40f6cd09214b8130080e73693050a5d35d3b01e979df086cb25a8c1033"
+    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v7.0.0+0/Foldseek.v7.0.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[Foldseek]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8dc8b452528acf1517106a9c494dc3e965ddf0ce"
+git-tree-sha1 = "40d7efa22cb4cfaa2138c61bd69a0417a01f736e"
 libc = "musl"
 os = "linux"
 
     [[Foldseek.download]]
-    sha256 = "0842b90f4fd196c556bc98f9b40526384c7ef3c1cf0065543218d7a6826d0752"
-    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v6.0.0+0/Foldseek.v6.0.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "dbe4c298897f5a4e1dd8f45c730c46b499c72f438de7acd06b443540de45340c"
+    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v7.0.0+0/Foldseek.v7.0.0.aarch64-linux-musl-cxx03.tar.gz"
 [[Foldseek]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "55a445d906c41ed22fcded2fac7c475ac9d82b2e"
+git-tree-sha1 = "f356e32278c0df1c14e62d02e816e3205196357e"
 libc = "musl"
 os = "linux"
 
     [[Foldseek.download]]
-    sha256 = "afc5117f4f9223b92992a985573e288f5c0dcfc34a9a7aa4f0d94b255525bf55"
-    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v6.0.0+0/Foldseek.v6.0.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "eca8155bea621e29aa56ebf2c827607547c860ca345b280fae3101b2382b6749"
+    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v7.0.0+0/Foldseek.v7.0.0.aarch64-linux-musl-cxx11.tar.gz"
 [[Foldseek]]
 arch = "x86_64"
-git-tree-sha1 = "a57af6c0d14b348938c760094a6a410c11c09790"
+git-tree-sha1 = "0a9fc0f71f558d372ffcc81514f354970b1b3cd2"
 os = "macos"
 
     [[Foldseek.download]]
-    sha256 = "3ef7864606ef09800f71ae65099ea7932baf903d3ab1f5f16247c2025f884113"
-    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v6.0.0+0/Foldseek.v6.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "f0489a0e65f608d21d8b6b87ba976cc3ad61819d620b9357755fd001bae2f1c6"
+    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v7.0.0+0/Foldseek.v7.0.0.x86_64-apple-darwin.tar.gz"
 [[Foldseek]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6228fc490ca964f8e65bcb60ff2456a875fc4852"
+git-tree-sha1 = "3da7bdabdb9cdd95caea5fda794a985d9cb8df5c"
 libc = "glibc"
 os = "linux"
 
     [[Foldseek.download]]
-    sha256 = "243064a9a5fea160684f0ea01025914a622a571109083c2ef904bac28458168b"
-    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v6.0.0+0/Foldseek.v6.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "363f2161f291c042af0a75ab109ed9171ca15c7ce8e287a6cf371acd773079c6"
+    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v7.0.0+0/Foldseek.v7.0.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[Foldseek]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dce30d62cb992bc0d07b3f545af993f1b18d6767"
+git-tree-sha1 = "8347aa8ccc48c6fe35745ef587c6e38a08932f51"
 libc = "glibc"
 os = "linux"
 
     [[Foldseek.download]]
-    sha256 = "fb601f93a4d0b9f44abac2d614be029e7773b804539af2676e413695f362289b"
-    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v6.0.0+0/Foldseek.v6.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "f3c3abd0cdb59fc5f2b5331cabc0cfff8e3d450929a0658178179ac10c426d73"
+    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v7.0.0+0/Foldseek.v7.0.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[Foldseek]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e1f62be8439949659ee1c5b5c329a3b2f85aeb24"
+git-tree-sha1 = "8b7c4dcb361cf5fce2ce28ed06873f80133a78b4"
 libc = "musl"
 os = "linux"
 
     [[Foldseek.download]]
-    sha256 = "e426ab3e4b73a5913681b236bd2ea79209190897002e10813cad4f08ca2aa13b"
-    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v6.0.0+0/Foldseek.v6.0.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "2ca18936209054a898f83c2c25df623e9bc4538cfa194042d69608b40aba0acc"
+    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v7.0.0+0/Foldseek.v7.0.0.x86_64-linux-musl-cxx03.tar.gz"
 [[Foldseek]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e15a8fc4c30d461b4760fde2ea47d409b9140d73"
+git-tree-sha1 = "5107e1861b56c2a8ef51ca31e6cb20a5a100b963"
 libc = "musl"
 os = "linux"
 
     [[Foldseek.download]]
-    sha256 = "e4c5ddada07385b1254d69e114a5baaba786a6b423483871327492f77debbf6e"
-    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v6.0.0+0/Foldseek.v6.0.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "53fdd3bc9968a123bc048711b2fed602179acb0aab55043f48056aa5205ff403"
+    url = "https://github.com/JuliaBinaryWrappers/Foldseek_jll.jl/releases/download/Foldseek-v7.0.0+0/Foldseek.v7.0.0.x86_64-linux-musl-cxx11.tar.gz"
